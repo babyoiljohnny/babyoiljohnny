@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babyoiljohnny
-- 👀 I’m interested in learning to code blockchain
+- 👀 I’m interested in learning to code blockchains
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on with other programs
 - 📫 How to reach me badbearnfts@gmail.com
